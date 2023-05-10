@@ -26,7 +26,7 @@ lt_options["console"] = "info"
 lt_options["selenium_version"] = "4.8.0"
 lt_options["w3c"] = True
 lt_options["plugin"] = "python-python"
-options1.set_capability('LT:Options', lt_options)
+options.set_capability('LT:Options', lt_options)
 
 
 
